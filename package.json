@@ -1,0 +1,15 @@
+{
+  "name": "nodegrpc",
+  "version": "1.0.0",
+  "description": "Node gRPC sample",
+  "main": "index.js",
+  "dependencies": {
+    "grpc-tools": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
